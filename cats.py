@@ -148,7 +148,7 @@ def wpm(typed, elapsed):
     minute_ratio = 60 / elapsed
     total = words * minute_ratio
     return total 
-    # END PROBLEM 4
+    # END PROBLEM 4 bruh
 
 
 ###########
